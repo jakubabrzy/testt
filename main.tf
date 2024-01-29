@@ -7,5 +7,5 @@ terraform {
 }
 resource "spacelift_context" "managed" {
   name        = "Mct"
-  description = "Your first context managed by Terraform 2"
+  description = "Your first context managed by Terraform 22"
 }
